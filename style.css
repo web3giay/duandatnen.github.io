@@ -913,13 +913,12 @@ display: block;
     margin-bottom: 15px;
 }
 .block_gallery_item h2{
-    font-size: 25px;
+  font-size: 26px;
     color: #545454;
     margin: 0px;
     text-align: left;
     margin-top: 12px;
-    font-family: Conv_UTMBeautifulCaps;
-    font-weight: bold;
+    font-family: "Myriad Pror";
 }
 
 .img_noithat{padding: 12px;padding-bottom: 1px;}
