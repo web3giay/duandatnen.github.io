@@ -12,29 +12,29 @@ p { margin: 0; padding: 0; }
 
 @font-face {
 	font-family: 'Roboto Condensed';
-	src: url('fonts/RobotoCondensed-Regular.eot');
-	src: local('?'), url('fonts/RobotoCondensed-Regular.woff') format('woff'), url('fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('fonts/RobotoCondensed-Regular.svg') format('svg');
+	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/RobotoCondensed-Regular.eot');
+	src: local('https://web3giay.github.io/duandatnen.github.io/'), url('fonts/RobotoCondensed-Regular.woff') format('woff'), url('fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('fonts/RobotoCondensed-Regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Myriad ProB';
-	src: url('fonts/MyriadPro-BoldCond.eot');
-	src: local('?'), url('fonts/MyriadPro-BoldCond.woff') format('woff'), url('fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('fonts/MyriadPro-BoldCond.svg') format('svg');
+	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-BoldCond.eot');
+	src: local('https://web3giay.github.io/duandatnen.github.io/'), url('fonts/MyriadPro-BoldCond.woff') format('woff'), url('fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('fonts/MyriadPro-BoldCond.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Myriad Pror';
-	src: url('fonts/MyriadPro-Cond.eot');
-	src: local('?'), url('fonts/MyriadPro-Cond.woff') format('woff'), url('fonts/MyriadPro-Cond.ttf') format('truetype'), url('fonts/MyriadPro-Cond.svg') format('svg');
+	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-Cond.eot');
+	src: local('https://web3giay.github.io/duandatnen.github.io/'), url('fonts/MyriadPro-Cond.woff') format('woff'), url('fonts/MyriadPro-Cond.ttf') format('truetype'), url('fonts/MyriadPro-Cond.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Conv_verdana';
-	src: url('fonts/verdana.eot');
-	src: local('☺'), url('fonts/verdana.woff') format('woff'), url('fonts/verdana.ttf') format('truetype'), url('fonts/verdana.svg') format('svg');
+	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/verdana.eot');
+	src: local('https://web3giay.github.io/duandatnen.github.io/'), url('fonts/verdana.woff') format('woff'), url('fonts/verdana.ttf') format('truetype'), url('fonts/verdana.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
