@@ -1,6 +1,43 @@
 @charset "utf-8";
 /* CSS Document */
  
+@font-face {
+	font-family: 'Roboto Condensed';
+	src: url('fonts/RobotoCondensed-Regular.eot');
+	src: local('?'), url('fonts/RobotoCondensed-Regular.woff') format('woff'), url('fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('fonts/RobotoCondensed-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Myriad ProB';
+	src: url('fonts/MyriadPro-BoldCond.eot');
+	src: local('?'), url('fonts/MyriadPro-BoldCond.woff') format('woff'), url('fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('fonts/MyriadPro-BoldCond.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Myriad Pror';
+	src: url('fonts/MyriadPro-Cond.eot');
+	src: local('?'), url('fonts/MyriadPro-Cond.woff') format('woff'), url('fonts/MyriadPro-Cond.ttf') format('truetype'), url('fonts/MyriadPro-Cond.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_verdana';
+	src: url('fonts/verdana.eot');
+	src: local('☺'), url('fonts/verdana.woff') format('woff'), url('fonts/verdana.ttf') format('truetype'), url('fonts/verdana.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_UTMBeautifulCaps';
+	src: url('fonts/UTM Beautiful Caps.eot');
+	src: local('☺'), url('fonts/UTM Beautiful Caps.woff') format('woff'), url('fonts/UTM Beautiful Caps.ttf') format('truetype'), url('fonts/UTM Beautiful Caps.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 table {width: 100%; border-collapse: collapse;line-height: 27px;max-width: 100% !important;}
 table td { padding: 1px; vertical-align: middle; padding-left: 5px; padding-right: 5px; vertical-align: middle; }
 a { text-decoration: none !important; color: #3b3b3b; }
@@ -290,8 +327,8 @@ body { margin: 0;font-size: 14px;line-height: 1.5em; color: #494949; font-family
     /* padding-bottom: 18px; */
 }
 .title_page span{
- font-family: 'Srisakdi', cursive;
-    display: block;
+    font-family: Conv_UTMBeautifulCaps;    
+display: block;
     text-align: left;
     font-size: 39px;
     float: left;
