@@ -57,7 +57,7 @@ transform: translatez(0);
 
 .bx-wrapper .bx-loading {
 	min-height: 50px;
-	background: url(images/bx_loader.gif) center center no-repeat #fff;
+	background: url(https://1.bp.blogspot.com/-eGLQtXQ9YeI/XIkAKBY1u9I/AAAAAAAAEIw/MhgQQHNqkiAz4l2AyKpD5UAPvxemGKmyACLcBGAs/s1600/fancybox_loading%25402x.gif) center center no-repeat #fff;
 	height: 100%;
 	width: 100%;
 	position: absolute;
@@ -106,10 +106,10 @@ transform: translatez(0);
 
 .bx-wrapper .bx-prev {
 	left: 10px;
-	background: url(images/controls.png) no-repeat 0 -32px;
+	background: url(https://1.bp.blogspot.com/-j6z5zc0MYpw/XInMhNtkcnI/AAAAAAAAEJ4/-tfv8IjWipcHCuvqVqjwIGmamxKT8eJlgCLcBGAs/s1600/controls.png) no-repeat 0 -32px;
 }
 
-.bx-wrapper .bx-next {right: 10px;      background: url(images/controls.png) no-repeat -43px -32px;}
+.bx-wrapper .bx-next {right: 10px;      background: url(https://1.bp.blogspot.com/-j6z5zc0MYpw/XInMhNtkcnI/AAAAAAAAEJ4/-tfv8IjWipcHCuvqVqjwIGmamxKT8eJlgCLcBGAs/s1600/controls.png) no-repeat -43px -32px;}
 
 .bx-wrapper .bx-prev:hover {
 	background-position: 0 0;
@@ -146,7 +146,7 @@ transform: translatez(0);
 	width: 10px;
 	height: 11px;
 	outline: 0;
-	background: url(images/controls.png) -86px -11px no-repeat;
+	background: url(https://1.bp.blogspot.com/-j6z5zc0MYpw/XInMhNtkcnI/AAAAAAAAEJ4/-tfv8IjWipcHCuvqVqjwIGmamxKT8eJlgCLcBGAs/s1600/controls.png) -86px -11px no-repeat;
 	margin: 0 3px;
 }
 
