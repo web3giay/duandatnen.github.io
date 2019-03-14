@@ -876,12 +876,13 @@ body { margin: 0;font-size: 14px;line-height: 1.5em; color: #494949; font-family
     margin-bottom: 15px;
 }
 .block_gallery_item h2{
-    font-size: 26px;
+    font-size: 25px;
     color: #545454;
     margin: 0px;
     text-align: left;
     margin-top: 12px;
-    font-family: "Myriad Pror";
+    font-family: 'Srisakdi', cursive;
+    font-weight: bold;
 }
 
 .img_noithat{padding: 12px;padding-bottom: 1px;}
