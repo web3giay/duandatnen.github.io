@@ -9,43 +9,8 @@ img {border: 0;max-width: 100%;height: auto;}
 ul { margin: 0; padding: 0; list-style: none;}
 .clearb { clear: both; }
 p { margin: 0; padding: 0; }
+@import url('https://fonts.googleapis.com/css?family=Srisakdi:400,700&subset=vietnamese');
 
-@font-face {
-	font-family: 'Roboto Condensed';
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/RobotoCondensed-Regular.eot');
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/RobotoCondensed-Regular.woff'), url('https://web3giay.github.io/duandatnen.github.io/fonts/RobotoCondensed-Regular.ttf'), url('https://web3giay.github.io/duandatnen.github.io/fonts/RobotoCondensed-Regular.svg');
-	font-weight: normal;
-	font-style: normal;
-}
-@font-face {
-	font-family: 'Myriad ProB';
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-BoldCond.eot');
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-BoldCond.woff'), url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-BoldCond.ttf'), url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-BoldCond.svg');
-	font-weight: normal;
-	font-style: normal;
-}
-@font-face {
-	font-family: 'Myriad Pror';
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-Cond.eot');
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-Cond.woff'), url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-Cond.ttf'), url('https://web3giay.github.io/duandatnen.github.io/fonts/MyriadPro-Cond.svg');
-	font-weight: normal;
-	font-style: normal;
-}
-@font-face {
-	font-family: 'Conv_verdana';
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/verdana.eot');
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/verdana.woff'), url('https://web3giay.github.io/duandatnen.github.io/fonts/verdana.ttf'), url('https://web3giay.github.io/duandatnen.github.io/fonts/verdana.svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_UTMBeautifulCaps';
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/UTM Beautiful Caps.eot');
-	src: url('https://web3giay.github.io/duandatnen.github.io/fonts/UTM Beautiful Caps.woff'), url('https://web3giay.github.io/duandatnen.github.io/fonts/UTM Beautiful Caps.ttf'), url('https://web3giay.github.io/duandatnen.github.io/fonts/UTM Beautiful Caps.svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 .btn_view_slider{background: #be1e2d;font-size: 18px;color: #002e51 !important;padding: 10px 18px;/* margin: 13px 5px; *//* float: left; */margin-bottom: 0px;font-family: arial;font-weight: normal;text-transform: uppercase;/* margin: 9px; */}
 .img_view_main{ position:relative}
@@ -327,7 +292,7 @@ body { margin: 0;font-size: 14px;line-height: 1.5em; color: #494949; font-family
     /* padding-bottom: 18px; */
 }
 .title_page span{
-    font-family: Conv_UTMBeautifulCaps;
+    font-family: 'Srisakdi', cursive;
     display: block;
     text-align: left;
     font-size: 39px;
