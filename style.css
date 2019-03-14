@@ -2,40 +2,40 @@
 /* CSS Document */
  
 @font-face {
-	font-family: 'Roboto Condensed';
-	src: url('fonts/RobotoCondensed-Regular.eot');
-	src: local('?'), url('fonts/RobotoCondensed-Regular.woff') format('woff'), url('fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('fonts/RobotoCondensed-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Roboto Condensed';
+    src: url('fonts/RobotoCondensed-Regular.eot');
+    src: local('?'), url('fonts/RobotoCondensed-Regular.woff') format('woff'), url('fonts/RobotoCondensed-Regular.ttf') format('truetype'), url('fonts/RobotoCondensed-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
-	font-family: 'Myriad ProB';
-	src: url('fonts/MyriadPro-BoldCond.eot');
-	src: local('?'), url('fonts/MyriadPro-BoldCond.woff') format('woff'), url('fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('fonts/MyriadPro-BoldCond.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Myriad ProB';
+    src: url('fonts/MyriadPro-BoldCond.eot');
+    src: local('?'), url('fonts/MyriadPro-BoldCond.woff') format('woff'), url('fonts/MyriadPro-BoldCond.ttf') format('truetype'), url('fonts/MyriadPro-BoldCond.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
-	font-family: 'Myriad Pror';
-	src: url('fonts/MyriadPro-Cond.eot');
-	src: local('?'), url('fonts/MyriadPro-Cond.woff') format('woff'), url('fonts/MyriadPro-Cond.ttf') format('truetype'), url('fonts/MyriadPro-Cond.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Myriad Pror';
+    src: url('fonts/MyriadPro-Cond.eot');
+    src: local('?'), url('fonts/MyriadPro-Cond.woff') format('woff'), url('fonts/MyriadPro-Cond.ttf') format('truetype'), url('fonts/MyriadPro-Cond.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
-	font-family: 'Conv_verdana';
-	src: url('fonts/verdana.eot');
-	src: local('☺'), url('fonts/verdana.woff') format('woff'), url('fonts/verdana.ttf') format('truetype'), url('fonts/verdana.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Conv_verdana';
+    src: url('fonts/verdana.eot');
+    src: local('☺'), url('fonts/verdana.woff') format('woff'), url('fonts/verdana.ttf') format('truetype'), url('fonts/verdana.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-	font-family: 'Conv_UTMBeautifulCaps';
-	src: url('fonts/UTM Beautiful Caps.eot');
-	src: local('☺'), url('fonts/UTM Beautiful Caps.woff') format('woff'), url('fonts/UTM Beautiful Caps.ttf') format('truetype'), url('fonts/UTM Beautiful Caps.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Conv_UTMBeautifulCaps';
+    src: url('fonts/UTM Beautiful Caps.eot');
+    src: local('☺'), url('fonts/UTM Beautiful Caps.woff') format('woff'), url('fonts/UTM Beautiful Caps.ttf') format('truetype'), url('fonts/UTM Beautiful Caps.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 table {width: 100%; border-collapse: collapse;line-height: 27px;max-width: 100% !important;}
@@ -137,7 +137,7 @@ p { margin: 0; padding: 0; }
     z-index: 9999;
     cursor: pointer;
     transition: all 0.5s;}
-.cri_vi:hover{ border:1px solid  #C01220}	
+.cri_vi:hover{ border:1px solid  #C01220}   
 .item_project_map{ width:200px;}
 .item_project_map img{ width:200px}
 .item_project_map h3{font-size: 17px; float:left; width:100%;color: #b32d31;margin: 5px 0px;font-family: inherit;}
@@ -419,8 +419,8 @@ display: block;
     float: left;
 }
 .list_line_top a{
-	color:#CC0000;
-	font-weight:bold;
+    color:#CC0000;
+    font-weight:bold;
 }
 
 .list_line_top li{
@@ -918,7 +918,7 @@ display: block;
     margin: 0px;
     text-align: left;
     margin-top: 12px;
-    font-family: 'Srisakdi', cursive;
+    font-family: Conv_UTMBeautifulCaps;
     font-weight: bold;
 }
 
@@ -1484,17 +1484,17 @@ li.logo_home a{ padding:0px !important}
 
 .block_video_project_detail h3{text-align:center;margin:0px;display:block;width:100%;text-align:center;margin: 15px 0px;font-size: 18px;}
 .videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
 }
 .videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .title-right{float: left;width: 100%;margin-top: 0;margin-bottom: 0;font-size: 24px;font-weight: normal;color: #fff;text-align: left;/* background: #145D8E; */padding: 9px 10px;font-family: 'Myriad Pror';padding-left: 0px;}
 .title-right1{float: left;width: 100%;margin-top: 0;margin-bottom: 0;font-size: 24px;font-weight: normal;color: #fff;padding-left: 0px;text-align: left;background: #bf1e2e;padding: 7px 10px;font-family: 'Myriad Pror';}
@@ -3004,9 +3004,9 @@ transition: all 0.5s;
 .block_scroll_duan1{margin-bottom:15px}    
 .block_right{padding:0px}
 .frame_images{margin-right:0px}    
-.left_duan_desktop{ display:none}	
-.left_duan_m{ display:block;}	
-.name-duan_left{ min-width:320px;}	
+.left_duan_desktop{ display:none}   
+.left_duan_m{ display:block;}   
+.name-duan_left{ min-width:320px;}  
  .block_logo_m{display:block;/* border-bottom: 1px solid #ccc; */position: relative;left: 0;/* background: #e0e9be; */float: initial !important;transition: all 0.5s;text-align: center;padding-left: 50px !important;}   
 .block-frm-contact textarea{max-width: 707px;}    
 .main_header {/* position:fixed; */width: 100%;}
